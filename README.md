@@ -13,7 +13,7 @@ See [course requirements](requirements.md) for more details.
 
 | | Date | Meeting Topic and Materials | Guests | Deliverable |
 | ---:| ---------- | ----------------------------------- | ------------------------------------- |  ----------- |
-| 1 | 11/09/2020 | [Course Introduction and <br> History of Software Engineering](resources/introduction.md)| | Introductions/Activity |
+| 1 | 2020-01-11 | [Course Introduction](resources/introduction.md)| | Introductions/Activity |
 ---
 
 **References:**
