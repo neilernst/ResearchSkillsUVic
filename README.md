@@ -8,8 +8,9 @@ See [course requirements](requirements.md) for more details.
 
 ---
 
-**Classes will be on Monday and Thursday 11:30-1pm online (via Zoom -- see [Brightspace]() for the link to Zoom, invitation to Slack.)**
+**Classes will be on Monday and Thursday 11:30-1pm online (via Zoom -- see [Teams]() for the link to Zoom, invitation to Slack.)**
 
+## Schedule 
 
 | **Module**                                |    | **Week**  | **Day 1**                                         | **Day 2**    | **Due**                             | **Offline activities**                                                                        |                                                                                                                                                                                                            |
 | ----------------------------------------- | -- | --------- | ------------------------------------------------- | ------------ | ----------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,15 +29,32 @@ See [course requirements](requirements.md) for more details.
 | Conference make up                        | 13 | Mar 29—2  |                                                   |              | Conference report                   |                                                                                               |                                                                                                                                                                                                            |
 |                                           |    | Apr 4—8   | Easter Monday                                     |              | Research plan                       |                                                                                               |                                                                                                                                                                                                            |
 
-**References:**
-
+## References
 See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. The following are some general books related to this topic (these are also available through the UVic library when you are logged in):
 
+### Writing
+* Schimel [cheat sheet](resources/schimel-cheat.pdf)
+* Strunk and White
+* How to Be a Star in Science
+* Steven King, On Writing
+* 
+### Peer Review
+
+### Career
+* PhD Comics
+* Matt Might 
+* ~~Philip Guo~~ :(
+
+### Academic Job Searches
+
+### Ethical Research
+
+### Research Methodology 
 - [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007, [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
 - [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael Felderer, Guilherme Horta Travassos, Springer 2020. [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
 - [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [UVic link](http://tinyurl.com/y2jtrkd2)
 
-**Teaching Staff:**
+## Teaching Staff:
 
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
 - [Felipe Rivera](http://lfrivera.com/) (Teaching Assistant)
