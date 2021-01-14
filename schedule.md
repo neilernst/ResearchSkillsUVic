@@ -1,83 +1,6 @@
 This is a rough outline for the course modules.
 
-# M1 - What is Research
-
-## Learning Objectives
-
-* Appreciate different research philosophies
-* Create elevator pitch
-* Evaluate and synthesize your key research contributions (or *planned contributions!*)
-
-## Day 1
-
-- Introductions
-- research paradigms quiz and discussion
-
-## Day 2
-
-* Continue introductions!
-* **Ethics and inclusivity discussion.** It is vital we feel safe in this small class: please consider the things shared in class to be confidential to our class, unless you obtain explicit permission to share (e.g., reviews, experiences, stories).
-* Hamming discussion
-* Elevator pitches (small groups). Keep your elevator pitch around and keep polishing it as we work in the course. I'll call on you to present your pitch to the class during the semester, so we do about 2 per class.
-
-## Notes/Slides
-
-- [Elevator Pitch](resources/elevator/)
-- [Elevator Pitch Video](https://www.youtube.com/watch?v=G6BVhuBvzQY)
-- [Elevator Pitch Sample - Climate Change](https://www.youtube.com/watch?v=Hv90XwAQUyg)
-- Neil's early Elevator Pitch (in resources)
-
-## Readings (before class)
-
-Hamming [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf) (or video)
-
-# M2 - Ways of Knowing, Philosophy of Science
-
-## Learning Objectives
-* Characterize different theoretical perspectives on research and epistemology
-* Know how little we know about philosophy of science (and who to ask for help!)
-* Describe different key developments in epistemology
-* Relate phil. of science to your research
-
-## Day 1
-
-## Day 2
-
-
-
-## Slides and Notes
-
-## Activity
-- Design and document your research methodology using https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/
-
-## Readings (before class)
-* [Guide to Advanced Empirical SE - Selecting Research Methods](resources/epistemology/EmpiricalSEEasterbrook.pdf)
-* [ABCs of Research](resources/epistemology/ABC-SE.pdf)
-
-Optional:
-- Who What How framework
-
-# M3 - Writing Scientific Papers
-
-## Learning Objectives
-
-* Develop knowledge of topic formulation
-* Plan a research study
-* Document research plans and turn that into a proposal
-* Scientific (English-language) writing
-
-## Slides
-
-## Readings (before class)
-
-* Schimel [cheat sheet](resources/schimel-cheat.pdf)
 * 
-
-Optional and Recommended 
-
-* Strunk and White
-* How to Be a Star in Science
-* Steven King, On Writing
 
 # 4 - Reviewing Scientific Papers
 
@@ -91,6 +14,7 @@ Optional and Recommended
 
 * (Some recent NeurIPS, ICSE, etc papers)
 * Sample reviews (open review, Neil's reviews)
+* Kitchenham, SLRs
 
 # M5 - Research Ethics
 
@@ -98,25 +22,42 @@ Optional and Recommended
 
 ## Slides
 
+* https://howwegettonext.com/the-black-mirror-writers-room-teaching-technology-ethics-through-speculation-f1a9e2deccf4
+
 ## Readings (before class)
 
 * Do the Tri Council certificate [https://tcps2core.ca/register](https://tcps2core.ca/register) and send evidence/certificate copy to Neil for confirmation.
 * https://this.deakin.edu.au/self-improvement/car-wars
 * Watch one Black Mirror episode if you have Netflix.
+* [ACM Code of Ethics paper](https://dl.acm.org/doi/10.1145/3236024.3264833)
 
 # M6 - Research Methods (Quantitative)
 
 ## Learning Objectives
 
+* Appreciate the diversity of quantitive methods
+* Learn what we don't know about stats.
+* Why blindly applying statistical techniques is foolish.
+
 ## Slides
 
 ## Readings (before class)
 
+* Why Most Published Research Findings
+* Effect Size paper
 * 
 
 # M7 - Presenting Your Work and Your Self
 
 ## Learning Objectives
+
+## Day 1
+
+* Dr Margaret-Anne Storey, AMA
+
+## Day 2
+
+
 
 ## Slides
 
@@ -129,6 +70,12 @@ Optional and Recommended
 ## Learning Objectives
 
 ## Slides
+
+## Day 1
+
+## Day 2
+
+- AMA Dr. Bruce Kapron - prepare some questions.
 
 ## Readings (before class)
 
