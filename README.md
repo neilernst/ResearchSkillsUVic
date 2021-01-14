@@ -10,56 +10,43 @@ See [course requirements](requirements.md) for more details.
 
 **Classes will be on Monday and Thursday 11:30-1pm online (via Zoom -- see [Teams]() for the link to Zoom, invitation to Slack.)**
 
-## Schedule 
+## Schedule
 
-| **Module**                                |    | **Week**  | **Day 1**                                         | **Day 2**    | **Due**                             | **Offline activities**                                                                        |                                                                                                                                                                                                            |
-| ----------------------------------------- | -- | --------- | ------------------------------------------------- | ------------ | ----------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                           |    |           |                                                   |              |                                     | Reading before class                                                                          |                                                                                                                                                                                                            |
-| What is research?                         | 2  | Jan 11—15 | Registration, ice-breaker, format |       Intros via Elevator pitches       | Research elevator pitch             | Hamming, [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)                                                                                    |                                                                                                                                                                                                            |
-| Ways of knowing and philosophy of science | 3  | Jan 18—22 |                                                   |              | Fill in bidding/expertise in HotCRP | Guide to Empirical SE chapter; ABCs;                                                          | [https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/](https://www.aesanetwork.org/research-onion-a-systematic-approach-to-designing-research-methodology/) |
-| Literature reviews                        | 4  | Jan 25—29 |                                                   |              |                                     | Kitchenham, SLRs                                                                              |                                                                                                                                                                                                            |
-| Writing technique                         | 5  | Feb 1—5   |                                                   |              |                                     | Read Schimel                                                                                  |                                                                                                                                                                                                            |
-| Ethics in research                        | 6  | Feb 8—12  |                                                   |              | Black Mirror ex                     | Do the Tri Council certificate [https://tcps2core.ca/register](https://tcps2core.ca/register) | [https://doi.org/10.1145/3236024.3264833](https://doi.org/10.1145/3236024.3264833)                                                                                                                         |
-|                                           | 7  | Feb 15—19 | Reading Week                                      | Reading Week | Come back with less stress!         |                                                                                               |                                                                                                                                                                                                            |
-| Research methods I - quant/formal         | 8  | Feb 22—26 |                                                   |              |                                     | Examples of different approaches. Seminal papers.                                             |                                                                                                                                                                                                            |
-| Presenting your work and yourself.        | 9  | Mar 1—5   |                                                   |              | Lit review                          | Ben Hermann, how to market. Marketing for scientists.                                         |                                                                                                                                                                                                            |
-| Research methods 2 - qual                 | 10 | Mar 8—12  |                                                   |              |                                     |                                                                                               |                                                                                                                                                                                                            |
-| Peer review                               | 11 | Mar 15—19 |                                                   |              | Mock PC reviews                     |                                                                                               |                                                                                                                                                                                                            |
-|                                           | 12 | Mar 22—26 |                                                   |              |                                     |                                                                                               |                                                                                                                                                                                                            |
-| Conference make up                        | 13 | Mar 29—2  |                                                   |              | Conference report                   |                                                                                               |                                                                                                                                                                                                            |
-|                                           |    | Apr 4—8   | Easter Monday                                     |              | Research plan                       |                                                                                               |                                                                                                                                                                                                            |
+The schedule below highlights modules and due dates. The detailed [schedule and lecture guide](schedule.md) contains the details.
+
+|Week | Module | Due |
+|---|---|--|
+| Jan 11—15 | What is Research? | |
+| Jan 18—22 | Ways of knowing and philosophy of science | Elevator pitch (in class) |
+| Jan 25—29 | Writing Papers | Fill in bidding/expertise in HotCRP. Upload 1 preprint to conference site. |
+| Feb 1—5 | Reviewing Papers |  |
+| Feb 8—12 | Research Ethics | Black Mirror ex |
+| Feb 15—19 | *Reading Break* | |
+| Feb 22—26 | Quantitative Research Methods | |
+| Mar 1—5 | Presenting your work and yourself | |
+| Mar 8—12 | Qualitative and Formal Research Methods | |
+| Mar 15—19 | Peer Review Process | Mock PC reviews |
+| Mar 22—26 | Managing Research Relationships and the Research Career | |
+| Mar 29—2 | Conference make up - likely no class | Conference report |
+| Apr 4—8 | Overflow/If needed | Research plan |
+| Apr 12 | No Class |  |
+### Holidays
+There is no class:
+
+* Monday, Feb 15 (Reading Week)
+* Thursday, Feb 18 (Reading Week)
+* Monday, Apr 5 (Christian Easter Monday)
+* Monday Apr 12 (Neil Pandemic DeStress Day)
 
 ## References
-See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. The following are some general books related to this topic (these are also available through the UVic library when you are logged in):
-
-### Writing
-* Schimel [cheat sheet](resources/schimel-cheat.pdf)
-* Strunk and White
-* How to Be a Star in Science
-* Steven King, On Writing
-* 
-### Peer Review
-
-### Career
-* PhD Comics
-* Matt Might 
-* ~~Philip Guo~~ :(
-
-### Academic Job Searches
-
-### Ethical Research
-
-### Research Methodology 
-- [Guide to Advanced Empirical Software Engineering](https://link.springer.com/book/10.1007/978-1-84800-044-5), by Forrest Shull, Janice Singer and Dag Sjøberg, Springer 2007, [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-044-5.pdf)
-- [Contemporary Empirical Methods in Software Engineering](https://link.springer.com/book/10.1007/978-3-030-32489-6), Editors: Michael Felderer, Guilherme Horta Travassos, Springer 2020. [PDF link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32489-6.pdf)
-- [Research Methods in Human-Computer Interaction, 2nd Edition](https://www.elsevier.com/books/research-methods-in-human-computer-interaction/lazar/978-0-12-805390-4) by Paul Lazar, Elsevier, 2017. [UVic link](http://tinyurl.com/y2jtrkd2)
+See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. 
 
 ## Teaching Staff:
 
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
 - [Felipe Rivera](http://lfrivera.com/) (Teaching Assistant)
 
-**Office Hour:** By appointment and Thursdays 2-3pm via Zoom drop in (use the Class link).
+**Office Hour:** By appointment and Monday 1:30-2pm via Zoom drop in (use the Class link). Note this changed from the official outline.
 Please direct message me on Slack (or email me) to set up a meeting.
 
 **Contact email:** [nernst@uvic.ca](mailto:nernst@uvic.ca)
