@@ -13,7 +13,10 @@
 
 ## Day 2
 
-* Housekeeping: new schedule layout. 
+* Housekeeping: 
+  * new schedule layout. 
+  * HotCRP accounts
+  * Elevator pitches
 * Continue introductions!
 * **Ethics and inclusivity discussion.** It is vital we feel safe in this small class: please consider the things shared in class to be confidential to our class, unless you obtain explicit permission to share (e.g., reviews, experiences, stories).
 * Hamming discussion.
