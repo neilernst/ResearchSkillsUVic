@@ -11,7 +11,7 @@
 - finish introductions
 - elevator pitch breakout groups - present pitches to 4 others
 - upload your pitch to Brightspace in the assignments
-- 
+
 ## Day 2
 - research paradigms from Easterbrook
 - the onion model exercise (breakouts)
@@ -26,8 +26,8 @@
 
 ## Readings (before class)
 
-* [Guide to Advanced Empirical SE - Selecting Research Methods](resources/epistemology/EmpiricalSEEasterbrook.pdf)
-* [ABCs of Research](resources/epistemology/ABC-SE.pdf)
+* [Guide to Advanced Empirical SE - Selecting Research Methods](EmpiricalSEEasterbrook.pdf)
+* [ABCs of Research](ABC-SE.pdf)
 
 Optional:
 
