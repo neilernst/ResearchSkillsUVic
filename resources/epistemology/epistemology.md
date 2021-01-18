@@ -8,9 +8,14 @@
 * Relate phil. of science to your research
 
 ## Day 1
-
+- finish introductions
+- elevator pitch breakout groups - present pitches to 4 others
+- upload your pitch to Brightspace in the assignments
+- 
 ## Day 2
-
+- research paradigms from Easterbrook
+- the onion model exercise (breakouts)
+- ABCs and McGrath's circumplex 
 
 
 ## Slides and Notes
