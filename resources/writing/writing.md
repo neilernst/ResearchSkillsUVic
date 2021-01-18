@@ -10,6 +10,7 @@
 * Scientific (English-language) writing
 
 ## Slides
+- peer writing exercise: take the attached writing prompt and with a partner, improve the text for 5 minutes
 
 ## Readings (before class)
 
