@@ -22,3 +22,6 @@ Optional and Recommended
 * Strunk and White
 * How to Be a Star in Science
 * Steven King, On Writing
+https://cs.stanford.edu/people/widom/paper-writing.html
+
+Proposals https://mobile.twitter.com/ebrahim_bagheri/status/1230187968628961280?s=20
