@@ -99,14 +99,14 @@ Solutions:
 	- Meehl and Deborah Mayo. A weak hypothesis test is one where data x agree with a claim C but the method is practically guaranteed to find the agreement, and has no capability of finding any flaws in C (Bad Evidence, No Test)
 	- A strong severity requirement is that we have evidence for claim C only to the extent it survives stringent scrutiny, i.e., our test was highly capable of finding flaws in it.
 
-### Connecting the ABC circumflex and research onion to your work
+### Connecting the ABC circumplex and research onion to your work
 
 ## Other resources:
-	- Uvic [Philosophy of Science course](https://www.uvic.ca/humanities/philosophy/assets/docs/courseoutlines/2019_fall/220-brown.pdf)
-	- Imre Lakatos - [Criticism and the Methodology Of Scientific Research Programmes](https://personal.lse.ac.uk/robert49/teaching/ph201/week05_xtra_lakatos.pdf) 
-	- Kuhn - [The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
-	- Paul Feyerabend 
-	- Einstein, [“On the Method of Theoretical Physics”](http://www.pitt.edu/~jdnorton/teaching/2590_Einstein_2015/pdfs/Einstein_Method_Physics.pdf)
+- Uvic [Philosophy of Science course](https://www.uvic.ca/humanities/philosophy/assets/docs/courseoutlines/2019_fall/220-brown.pdf)
+- Imre Lakatos - [Criticism and the Methodology Of Scientific Research Programmes](https://personal.lse.ac.uk/robert49/teaching/ph201/week05_xtra_lakatos.pdf) 
+- Kuhn - [The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
+- Paul Feyerabend 
+- Einstein, [“On the Method of Theoretical Physics”](http://www.pitt.edu/~jdnorton/teaching/2590_Einstein_2015/pdfs/Einstein_Method_Physics.pdf)
 - False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant, Joseph P. Simmons, Leif D. Nelson, Uri Simonsohn, 2011.
 
 ## Activity
@@ -119,4 +119,5 @@ Solutions:
 * [ABCs of Research](ABC-SE.pdf)
 
 Optional:
+
 - Our [Who What How framework](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z)

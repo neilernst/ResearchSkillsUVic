@@ -45,4 +45,4 @@ I'm interested in the problem of requirements evolution. For example, if the gov
 - the Technical Rule: 
 - https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf
 - "Pint of Science"
-- Cafe Scientifique
+- Cafe Scientifique∑∑∑
