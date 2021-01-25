@@ -4,11 +4,15 @@
 
 The main objective of this course is to introduce students to the process of doing research in computer science. You will learn basic research and communication skills, including conducting literature reviews, creative and critical thinking, reviewing, presenting, and networking. The classes will consist of discussion of materials on each of these topics, and working in small groups.
 
-See [course requirements](requirements.md) for more details.
-
 ---
 
 **Classes will be on Monday and Thursday 11:30-1pm online (via Zoom -- see [Teams]() for the link to Zoom, invitation to Slack.)**
+
+----
+
+## Assignments
+
+* See [assessment](assessment.md)
 
 ## Schedule
 
