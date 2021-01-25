@@ -11,7 +11,12 @@
 
 ## Slides
 
+* Table stakes for writing in English are good grammar and spell-checking. Lots of papers get accepted with typos and grammatical errors, but why annoy the reviewer? 
+* Paper engineering can take a long time. 
+* I like the Schimel approach (see cheatsheet). 
+
 - peer writing exercise: take the attached writing prompt and with a partner, improve the text for 5 minutes
+  - Find a paper you have read recently. Suggest improvements 
 
 ## Readings (before class)
 
