@@ -42,12 +42,14 @@ Theories:
 	- design
 
 Q: Why is astrology not a science? What about [Bem's paper https://slate.com/technology/2013/07/statistics-and-psychology-multiple-comparisons-give-spurious-results.htmlestablishing ESP?](https://slate.com/health-and-science/2017/06/daryl-bem-proved-esp-is-real-showed-science-is-broken.html)
+	
 	- large sample sizes
 	- replication of findings
 	- well known statistical analysis
-- The [garden of forking paths.](https://slate.com/technology/2013/07/statistics-and-psychology-multiple-comparisons-give-spurious-results.html)
 
-Ghostbusters video.
+The [garden of forking paths.](https://slate.com/technology/2013/07/statistics-and-psychology-multiple-comparisons-give-spurious-results.html)
+
+[Ghostbusters video.](https://www.youtube.com/watch?v=5ohlA__xABw)
 
 ### Logical deduction (rationalism)
 - the epistemology of theoretical CS
@@ -105,9 +107,9 @@ Solutions:
 - Uvic [Philosophy of Science course](https://www.uvic.ca/humanities/philosophy/assets/docs/courseoutlines/2019_fall/220-brown.pdf)
 - Imre Lakatos - [Criticism and the Methodology Of Scientific Research Programmes](https://personal.lse.ac.uk/robert49/teaching/ph201/week05_xtra_lakatos.pdf) 
 - Kuhn - [The Structure of Scientific Revolutions](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
-- Paul Feyerabend 
 - Einstein, [“On the Method of Theoretical Physics”](http://www.pitt.edu/~jdnorton/teaching/2590_Einstein_2015/pdfs/Einstein_Method_Physics.pdf)
 - False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant, Joseph P. Simmons, Leif D. Nelson, Uri Simonsohn, 2011.
+- [Great set of slides on phil. of science at LSE](https://personal.lse.ac.uk/robert49/teaching/ph201)
 
 ## Activity
 
