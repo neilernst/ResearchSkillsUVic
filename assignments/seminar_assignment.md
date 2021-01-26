@@ -1,9 +1,3 @@
-**RESEARCH SEMINAR ASSIGNMENT**
-
-**Critique of research seminars**
-
- 
-
 # Research Talk Assignment
 
 ## Due:  
