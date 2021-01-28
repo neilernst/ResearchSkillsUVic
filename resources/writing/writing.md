@@ -26,20 +26,20 @@
 
 * The structure of your paper should follow your area conventions. In my case:
 
-  * Title: Many approaches to title writing, I prefer something memorable and descriptive. Do not over claim, but do not be boring. This is often domain specific. Christian Kästner has a [nice summary for my domain](https://www.cs.cmu.edu/~ckaestne/ontitles/)). Apart from that expect to go over 4-5 versions. 
-  * Abstract: I like [Steve Easterbrook's format](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/). Remember that the abstract is often all that appears on the closed-access publishing world we have.
-  * Introduction: motivates the problem, outlines the research approach, explains the contribution (don't keep people guessing - if you prove P=NP say so!)
-  * Background and Related Work: where does this paper fit in the context of other work (there is ALWAYS other work)
-  * Methods: the details. Describe it so someone else can redo the approach.
-  * Results: What was learned.
-  * Discussion: implications of the results, tied back into the related work. Should in empirical domains mention limitations of the approach and threats to validity. 
-  * Conclusion: My preference is to keep this very short and to the point, highlighting (perhaps) related work.
+  * **Title**: Many approaches to title writing, I prefer something memorable and descriptive. Do not over claim, but do not be boring. This is often domain specific. Christian Kästner has a [nice summary for my domain](https://www.cs.cmu.edu/~ckaestne/ontitles/)). Apart from that expect to go over 4-5 versions. 
+  * **Abstract**: I like [Steve Easterbrook's format](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/). Remember that the abstract is often all that appears on the closed-access publishing world we have.
+  * **Introduction**: motivates the problem, outlines the research approach, explains the contribution (don't keep people guessing - if you prove P=NP say so!)
+  * **Background** and Related Work: where does this paper fit in the context of other work (there is ALWAYS other work)![PHD Comics on Twitter: "Optimal References. http://t.co/6EwRCbPlDp **Hey,  #ThePHDMovie2 screenings: http://t.co/swi4hojuH2 http://t.co/uOFHTxLsx8"](https://pbs.twimg.com/media/CPGMFlNWwAAVPHO.jpg)
+  * **Methods**: the details. Describe it so someone else can redo the approach.
+  * **Results**: What was learned.
+  * **Discussion**: implications of the results, tied back into the related work. Should in empirical domains mention limitations of the approach and threats to validity. 
+  * **Conclusion**: My preference is to keep this very short and to the point, highlighting (perhaps) related work.
 
 * I like the Schimel approach (see cheatsheet). 
 
   * Science writing is about telling a story. Make it an interesting one! 
 
-  * Schimel uses the SUCCES mnemonic. Let's walk through these.
+  * Schimel uses the **SUCCES** mnemonic. Let's walk through these.
 
   * *S:* Simple = the core essence
      *U:* Unexpected = the unknown, a gap *C:* Concrete = data vs. abstract ideas *C:* Credible = ground ideas in lit.
@@ -48,8 +48,7 @@
 
     *Your job is to find what is novel and highlight the unexpected elements.*
 
-- peer writing exercise: take the attached writing prompt and with a partner, improve the text for 5 minutes
-  - Find a paper you have read recently. Suggest improvements 
+- *Peer writing exercise*: in the breakout room, pick one person's elevator pitch, and then either a) turn that elevator pitch into a paper abstract using Easterbrook's template or b) pick out Schimel's SUCCES elements. Then report back to the class.
 
 ## Readings (before class)
 
