@@ -52,7 +52,7 @@
 
 ## Readings (before class)
 
-* Schimel [cheat sheet](resources/writing/schimel-in-a-sheet.pdf)
+* Schimel [cheat sheet](schimel-in-a-sheet.pdf)
 
 ### Optional and Recommended 
 
