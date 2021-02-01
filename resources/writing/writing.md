@@ -5,8 +5,8 @@
 ## Learning Objectives
 
 * Learn some common guidelines for scientific (English-language) writing
-* Plan a research study with visual abstracts
-* Document research plans and turn that into a proposal
+
+  
 
 ## Slides
 
