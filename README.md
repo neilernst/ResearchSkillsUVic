@@ -23,7 +23,7 @@ The schedule below highlights modules and due dates. Click on the module name to
 | Jan 11—15 | [What is Research?](resources/elevator/what_is_research.md) | |
 | Jan 18—22 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
 | Jan 25—29 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
-| Feb 1—5 | Reviewing Papers |  |
+| Feb 1—5 | [Reviewing Papers](resources/reviewing/M4%20Reading.md |  |
 | Feb 8—12 | Research Ethics | Black Mirror ex |
 | Feb 15—19 | *Reading Break* | |
 | Feb 22—26 | Quantitative Research Methods | |
