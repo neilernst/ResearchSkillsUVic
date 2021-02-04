@@ -55,6 +55,12 @@ To do this, I recommend reading theses of fellow students in your lab. You will 
 
 Turning the VA into a research plan. 
 
+## Systematic Literature Reviews and Reading Papers
+
+- organize a reading group.
+- difference between reading for research and reading for reviewing.
+- [Dana's slides]()
+
 ## Readings (before class)
 
 * none. 
@@ -64,3 +70,6 @@ Turning the VA into a research plan.
 * [Finding CS Theory problems](https://blog.computationalcomplexity.org/2003/04/finding-problems-to-work-on.html)
 * Storey, [Visual Abstracts](https://github.com/margaretstorey/VASE) repo.
 * [Writing more accessible theory papers](https://thmatters.files.wordpress.com/2017/05/nature-science-pnas-advice.pdf)
+* [Keshav, How To Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+* [Kitchenham, How to Do Systematic Reviews](https://www.inf.ufsc.br/~aldo.vw/kitchenham.pdf
+* Creswell's [book on lit reviews and research](https://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=3081218)
