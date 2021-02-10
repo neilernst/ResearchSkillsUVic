@@ -60,6 +60,7 @@ Turning the VA into a research plan.
 - organize a reading group.
 - difference between reading for research and reading for reviewing.
 - [Dana's slides]()
+- doi2bib.org 
 
 ## Readings (before class)
 
