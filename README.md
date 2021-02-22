@@ -26,9 +26,9 @@ The schedule below highlights modules and due dates. Click on the module name to
 | Feb 1—5 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) |  |
 | Feb 8—12 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror ex |
 | Feb 15—19 | *Reading Break* | |
-| Feb 22—26 | Quantitative Research Methods | |
+| Feb 22—26 | [Qualitative Research Methods](resources/qual/qual-notes.md) | |
 | Mar 1—5 | Presenting your work and yourself | |
-| Mar 8—12 | Qualitative and Formal Research Methods | |
+| Mar 8—12 | Quantitative and Formal Research Methods | |
 | Mar 15—19 | Peer Review Process | Mock PC reviews |
 | Mar 22—26 | Managing Research Relationships and the Research Career | |
 | Mar 29—2 | Conference make up - likely no class | Conference report |
