@@ -24,12 +24,12 @@ The schedule below highlights modules and due dates. Click on the module name to
 | Jan 18—22 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
 | Jan 25—29 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
 | Feb 1—5 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) |  |
-| Feb 8—12 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror ex |
+| Feb 8—12 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
 | Feb 15—19 | *Reading Break* | |
-| Feb 22—26 | [Qualitative Research Methods](resources/qual/qual-notes.md) | |
-| Mar 1—5 | Presenting your work and yourself | |
+| Feb 22—26 | Miguel Nacenta AMA. Grad student panel. |  |
+| Mar 1—5 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
 | Mar 8—12 | Quantitative and Formal Research Methods | |
-| Mar 15—19 | Peer Review Process | Mock PC reviews |
+| Mar 15—19 | [Qualitative Research Methods](resources/qual/qual-notes.md) | Mock PC reviews |
 | Mar 22—26 | Managing Research Relationships and the Research Career | |
 | Mar 29—2 | Conference make up - likely no class | Conference report |
 | Apr 4—8 | Overflow/If needed | Research plan |
