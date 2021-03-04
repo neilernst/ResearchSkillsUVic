@@ -5,17 +5,13 @@
 * Learn the importance of "marketing" yourself.
 * Learn about how social networks are important in science.
 
-## Day 1
-
-## Day 2
-
-
 ## Slides and Notes
+[Slides](networking.pdf)
 
 ## Other resources:
 - https://www.poundstopocket.co.uk/pound-place/wp-content/uploads/2018/03/Design_How-to-look-and-sound-more-confident.png
-- Presentation Patterns
-- 
+- [Presentation Patterns](https://presentationpatterns.com)
+
 ## Activity
 
 * Create a Twitter, OrcID, and Scholar profile (in class)
@@ -25,4 +21,3 @@
 ## Optional Readings
 
 - Marketing for Scientists
-- Presentation Patterns
