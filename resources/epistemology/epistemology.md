@@ -33,7 +33,7 @@
 We have data (causes), arguments (i.e., theories/explanations), conclusions (or predictions). 
 * **Induction**: from the evidence, postulate an explanation. (If I see P, Q, I postulate P→Q ). If the sun rises every morning for X days, generalize a rule that the sun always rises.
 * **Deduction**: from an argument and data, draw conclusions. (If I know P, P→Q, I can conclude Q)
-* **Abduction**: from the predictions and theory, derive the possible explanations (note: infinitely many!) (If I know P→Q, Q, I abduce P). (Abduction is diagnosis)
+* **Abduction**: from the predictions and theory, derive the possible explanations (note: infinitely many!) (If I know P→Q, Q, I abduce P). (Abduction is diagnosis). Note that in abduction we might ALSO know R→Q, and so both P and R are valid).
 
 Theories: 
 	- explain
