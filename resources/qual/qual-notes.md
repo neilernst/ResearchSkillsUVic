@@ -65,7 +65,7 @@ One question we can ask is "given the same data set, would another person find t
 
 We could measure the inter-rater agreement or reliability using common techniques such as Cohen's kappa, and then make an argument as to why that justifies validity of the coding approach.
 
-Myview: the real question is how reliable is the coding guide. The best way to validate this is to conduct robust coding agreement sessions and refinement of the coding guide/taxonomoy. 
+My view: the real question is how reliable is the coding guide. The best way to validate this is to conduct robust coding agreement sessions and refinement of the coding guide/taxonomoy. 
 
 ## Exercise
 
