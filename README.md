@@ -28,11 +28,11 @@ The schedule below highlights modules and due dates. Click on the module name to
 | Feb 15—19 | *Reading Break* | |
 | Feb 22—26 | Miguel Nacenta AMA. Grad student panel. |  |
 | Mar 1—5 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
-| Mar 8—12 | Quantitative and Formal Research Methods | |
-| Mar 15—19 | [Qualitative Research Methods](resources/qual/qual-notes.md) | Mock PC reviews |
-| Mar 22—26 | Managing Research Relationships and the Research Career | |
-| Mar 29—2 | Conference make up - likely no class | Conference report |
-| Apr 4—8 | Overflow/If needed | Research plan |
+| Mar 8—12 | [Qualitative Research Methods](resources/qual/qual-notes.md). Bruce Kapron AMA. |  |
+| Mar 15—19 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Sean Chester AMA. | Mock PC reviews discussion completed |
+| Mar 22—26 | Peggy Storey AMA. Managing Research Relationships and the Research Career | |
+| Mar 29—2 | Conference make up - likely no class. Working with big data. Matt | Conference report |
+| Apr 4—8 |  | Research plan |
 | Apr 12 | No Class |  |
 ### Holidays
 There is no class:
