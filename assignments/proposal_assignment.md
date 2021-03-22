@@ -11,7 +11,7 @@ Prepare a 3 page proposal that captures the research you are doing, or plan to d
 ## Required:
 
 - Describe your technological rule.
-- Situate your research in the design science / visual abstract, McIlreath's template, OR make an argument for why it does not fit. 
+- Situate your research in the [design science / visual abstract](https://github.com/margaretstorey/VASE/blob/master/Template.png), [McElreath's template](https://github.com/rmcelreath/PhD_planning_template/blob/master/PhD_template.pdf), OR make an argument for why it does not fit. 
 - Summarize the related work with 3-5 relevant publications, and where your work fits.
 - Capture at least 2 research questions or open problems your research will answer.
 - Describe the research strategies you will use to answer those questions. 
