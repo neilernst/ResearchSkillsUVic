@@ -30,13 +30,16 @@ A "quasi-experiment" is a study where there is less control and (usually) no ran
 
 If you are using statistics, your goal is inference from your sample to a population. Therefore, precisely defining your sampling frame and eventual sample is essential. Often harder than it seems!
 
+A great reference is Baltes and Ralph: https://arxiv.org/pdf/2002.07764.pdf
+
 #### Statistical Analysis
 
 There are a variety of statistical approaches and usually this is pretty specific to a particular area. I would just say 
 
 1. Not all studies need to try and generalize to a population. Exploratory research is pretty useful, even if you cannot conclude anything for a wider group. Not every study needs to report a p-value! Maybe you just want to say "hmm, here's something interesting".  
 2. You should be very clear about the assumptions baked into a given analysis approach. Cookie-cutter stats is a bad idea. For example, [Cohen's D categories are probably not right for your domain](https://www.sciencedirect.com/science/article/abs/pii/S1364661319302979). 
-3. I personally find Bayesian analysis to be much closer to the way I like to think about my data and analysis. It also gives a much richer notion of posterior distribution that can be used in many useful ways, esp for practical significance. A great book on [getting started with Bayesian inference is by McIlreath](https://xcelab.net/rm/statistical-rethinking/). 
+3. I personally find Bayesian analysis to be much closer to the way I like to think about my data and analysis. It also gives a much richer notion of posterior distribution that can be used in many useful ways, esp for practical significance. A great book on [getting started with Bayesian inference is by McIlreath](https://xcelab.net/rm/statistical-rethinking/). The example I showed is from [Furia, Torkar, and Feldt](https://arxiv.org/abs/2101.12591)
+4. Probably type-S error (sign) and type-M error (magnitude) are more important than Type 1 and Type 2 errors.
 
 #### Replication and Open Science
 
@@ -50,7 +53,7 @@ In my view the thing that best lends evidence to the effect being true, and impo
 
 #### Bad Practices in Statistical Research
 
-I direct you to this paper for more information. But broadly speaking, in experiments (in particular!) we need to worry about researcher bias:
+I direct you to the smells paper for more information. [Gelman's blog](https://statmodeling.stat.columbia.edu) is a fun survey of various issues. But broadly speaking, in experiments (in particular!) we need to worry about researcher bias:
 
 - Not publishing bad results
 - Suspiciously many results close to \alpha = 0.05
@@ -116,3 +119,4 @@ I think every CS student should have a good understanding of theoretical CS tool
 * [Manuel Blum - theory research tips](http://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
 * [History of Complexity](https://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 * [importance of effect size](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444174/)
+* [Empirical Standards in SE](https://github.com/acmsigsoft/EmpiricalStandards)
