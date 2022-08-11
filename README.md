@@ -1,14 +1,10 @@
-# Research Skills UVic 2021
+# Research Skills UVic
 
 # [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
 
 The main objective of this course is to introduce students to the process of doing research in computer science. You will learn basic research and communication skills, including conducting literature reviews, creative and critical thinking, reviewing, presenting, and networking. The classes will consist of discussion of materials on each of these topics, and working in small groups.
 
 ---
-
-**Classes will be on Monday and Thursday 11:30-1pm online (via Zoom -- see [Teams]() for the link to Zoom, invitation to Slack.)**
-
-----
 
 ## Assignments
 
@@ -20,27 +16,25 @@ The schedule below highlights modules and due dates. Click on the module name to
 
 |Week | Module | Items Due (Fri, 8pm) |
 |---|---|--|
-| Jan 11—15 | [What is Research?](resources/elevator/what_is_research.md) | |
-| Jan 18—22 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
-| Jan 25—29 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
-| Feb 1—5 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) |  |
-| Feb 8—12 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
-| Feb 15—19 | *Reading Break* | |
-| Feb 22—26 | Miguel Nacenta AMA. Grad student panel. |  |
-| Mar 1—5 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
-| Mar 8—12 | [Qualitative Research Methods](resources/qual/qual-notes.md). Bruce Kapron AMA. |  |
-| Mar 15—19 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Sean Chester AMA. | Mock PC reviews discussion completed |
-| Mar 22—26 | Peggy Storey AMA. Managing Research Relationships and the Research Career | |
-| Mar 29—2 | Conference make up - likely no class. Working with big data. Matt | Conference report |
-| Apr 4—8 |  | Research plan |
-| Apr 12 | No Class |  |
+| 1 | [What is Research?](resources/elevator/what_is_research.md) | |
+| 2 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
+| 3 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
+| 4 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) |  |
+| 5 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
+|6 | *** AMA. Grad student panel. |  |
+|7 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
+| 8 | [Qualitative Research Methods](resources/qual/qual-notes.md). Bruce Kapron AMA. |  |
+| 9 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Sean Chester AMA. | Mock PC reviews discussion completed |
+| 10 | *** AMA. Managing Research Relationships and the Research Career | |
+| 11 | Conference make up - likely no class. Working with big data. Matt | Conference report |
+| 12 |  | Research plan |
+| 13 | No Class |  |
+
 ### Holidays
 There is no class:
 
-* Monday, Feb 15 (Reading Week)
-* Thursday, Feb 18 (Reading Week)
-* Monday, Apr 5 (Christian Easter Monday)
-* Monday Apr 12 (Neil Pandemic DeStress Day)
+* Oct 28, Nov 1-4 (travel), work on research proposal and ethics training
+* Nov 9, 11 (Reading Week), no assignments
 
 ## References
 See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. 
@@ -48,10 +42,10 @@ See the resources for each lecture in the schedule above for an extensive list o
 ## Teaching Staff:
 
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
-- [Felipe Rivera](http://lfrivera.com/) (Teaching Assistant)
+- [Jinwei Zhao]() (Teaching Assistant)
 
-**Office Hour:** By appointment and Monday 1:30-2pm via Zoom drop in (use the Class link). Note this changed from the official outline.
-Please direct message me on Slack (or email me) to set up a meeting.
+**Office Hour:** By appointment and Monday 1:30-2pm via Teams drop in (use the Class link). 
+Please email me to set up a meeting.
 
 **Contact email:** [nernst@uvic.ca](mailto:nernst@uvic.ca)
 
