@@ -23,15 +23,15 @@ The schedule below highlights modules and due dates. Click on the module name to
 | 5 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
 |6 | *** AMA. Grad student panel. |  |
 |7 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
-| 8 | [Qualitative Research Methods](resources/qual/qual-notes.md). Bruce Kapron AMA. |  |
-| 9 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Sean Chester AMA. | Mock PC reviews discussion completed |
-| 10 | *** AMA. Managing Research Relationships and the Research Career | |
-| 11 | Conference make up - likely no class. Working with big data. Matt | Conference report |
-| 12 |  | Research plan |
-| 13 | No Class |  |
+| 8 | No lectures | | 
+| 9 | [Qualitative Research Methods](resources/qual/qual-notes.md). Prof XXX AMA. |  |
+| 10 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Prof XXX AMA. | Mock PC reviews discussion completed |
+| 11 | *** AMA. Managing Research Relationships and the Research Career | |
+| 12 |  Working with big data. Using Compute Canada | Conference report |
+| 13 |  | Research plan |
 
-### Holidays
-There is no class:
+### Holidays and Travel
+There is no lecture:
 
 * Oct 28, Nov 1-4 (travel), work on research proposal and ethics training
 * Nov 9, 11 (Reading Week), no assignments
