@@ -2,7 +2,7 @@
 
 ## Due:
 
-- **Apr 8** - email me a PDF formatted in your venue's style of choice (e.g., IEEETran, ACM CompSci, CHI, NeurIPS, etc.)
+- **Dec 2** - email me a PDF formatted in your venue's style of choice (e.g., IEEETran, ACM CompSci, CHI, NeurIPS, etc.) If you go to Overleaf, there are pre-existing templates for this.
 
 ## Overview
 

@@ -2,11 +2,11 @@
 
 ## Due:  
 
-* Apr 2, 2021
+* Nov 25, 2022
 
 ## Overview
 
-This assignment consists in attending 2 seminars and writing a one paragraph critique for each of the seminars. The seminars should be at least 1 hr long including questions. Then write a short paragraph on each talk.
+Attend 2 seminars and write a one paragraph critique for each of the seminars. The seminars should be at least 1 hr long including questions. Then write a short paragraph on each talk.
 
 ## Required
 
@@ -23,8 +23,6 @@ Choose one seminar close to your area of interest, and one that is in an unrelat
 5. Is the information pertaining to #1-4 above clearly presented? What improvements might you suggest?
 
  ### Possible venues
-
-In hindsight offering to pay for registration was a good idea when I thought this would be 10 students, less good when it is 30. If you have a solid lead on a conference let's talk, but there are many free and accessible talks now on Zoom:
 
 - https://cscan-infocan.ca/podium/ has different webinars
 - https://www.cs.cmu.edu/scs-seminar-series
