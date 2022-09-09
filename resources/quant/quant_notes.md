@@ -10,7 +10,7 @@
 
 [CS Research overview](https://dl.acm.org/doi/pdf/10.1145/1189136.1189180)
 
-We will have Sean Chester and Bruce Kapron help us out.
+We will have XX help us out.
 
 Three types of quantitative study: **lab** experiments or field experiments with users, often called controlled experiments. And the most dominant one, **simulations** or data experiments, conventionally using some measure of accuracy on a set of sample data. Think Imagenet, Network traces, Github commits. 
 
@@ -110,7 +110,8 @@ Bruce mentioned a lot of these the other day. Commonly used approaches include
 I think every CS student should have a good understanding of theoretical CS tools such as proof by induction, contradiction, formal logic, etc.
 
 ## Readings (before class)
-
+* van Smeden, "A Very Short List of Common Pitfalls in Research Design, Data Analysis, and Reporting", https://journals.stfm.org/primer/2022/van-smeden-2022-0059/
+* 
 ### Optional and Recommended
 
 * [Doing good KDD research](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)

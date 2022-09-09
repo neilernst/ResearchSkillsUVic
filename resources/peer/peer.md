@@ -66,4 +66,4 @@ What should the criteria be? What about other venues or different types of paper
 There are lot of other readings in the mandatory reading. 
 
 - [How to Write a Rebuttal](https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html)
-- https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/
+- https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/ 

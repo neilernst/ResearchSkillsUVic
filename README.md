@@ -42,7 +42,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 ## Teaching Staff:
 
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
-- [Jinwei Zhao]() (Teaching Assistant)
+- [Jinwei Zhao](https://pan.uvic.ca/~clarkzjw/) (Teaching Assistant)
 
 **Office Hour:** By appointment and Monday 1:30-2pm via Teams drop in (use the Class link). 
 Please email me to set up a meeting.
