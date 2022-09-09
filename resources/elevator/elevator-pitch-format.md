@@ -23,26 +23,26 @@ The pitch format below is very specific to startups but I don't think it matters
 
 # Example #1:
 
-o WHAT: Harley Davidson is the ONLY motorcycle manufacturer
-o HOW: that makes big, loud motorcycles
-o WHO: for macho guys (and macho "wannabees")
-o WHERE: in the United States (mostly)
-o WHY: who want to join a gang of cowboys
-o WHEN: in an era of decreasing personal freedom.
+* WHAT: Harley Davidson is the ONLY motorcycle manufacturer
+* HOW: that makes big, loud motorcycles
+* WHO: for macho guys (and macho "wannabees")
+* WHERE: in the United States (mostly)
+* WHY: who want to join a gang of cowboys
+* WHEN: in an era of decreasing personal freedom.
 
 # Example #2:
-o WHAT: The White Stripes are the ONLY pop music duo
-o HOW: that records crude yet hip rock songs
-o WHO: for young urbanites
-o WHERE: in the United States and other first-world countries
-o WHY: who long for authenticity
-o WHEN: in an era of overproduced, me-too music.
+* WHAT: The White Stripes are the ONLY pop music duo
+* HOW: that records crude yet hip rock songs
+* WHO: for young urbanites
+* WHERE: in the United States and other first-world countries
+* WHY: who long for authenticity
+* WHEN: in an era of overproduced, me-too music.
 
 # Neil, 2007 (midway thru PhD)
 I'm interested in the problem of requirements evolution. For example, if the government passes a law about protecting personal information, a company will have to update its IT systems to comply. The problem is that software is not always easy to change in this way. I've proposed a framework for using these changes to understand what we want to change in the implementation. It allows us to find solutions that are minimal. I also applied this framework to a case study of payment card requirements.
 
 # Other Formats
-- the Technical Rule: 
+- the [Technological Rule](https://github.com/margaretstorey/VASE/blob/master/Template.png) 
 - https://graduateschool.nd.edu/assets/76988/elevator_pitch_8_28_2012.pdf
-- "Pint of Science"
-- Cafe Scientifique∑∑∑
+- ["Pint of Science"](https://pintofscience.com)
+- Cafe Scientifique - https://www.uvic.ca/science/donors/outreach/cafe-scientifique/

@@ -44,7 +44,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
 - [Jinwei Zhao](https://pan.uvic.ca/~clarkzjw/) (Teaching Assistant)
 
-**Office Hour:** By appointment and Monday 1:30-2pm via Teams drop in (use the Class link). 
+**Office Hour:** By appointment and Tuesday 9:30-10:20am via Teams drop in (use the Class link). 
 Please email me to set up a meeting.
 
 **Contact email:** [nernst@uvic.ca](mailto:nernst@uvic.ca)
