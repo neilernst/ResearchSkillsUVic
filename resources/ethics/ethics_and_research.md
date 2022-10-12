@@ -39,7 +39,7 @@ While tempting, even the faint hint that you engage in these practices can be de
 
 ## Readings (before class)
 
-* [Car Wars](https://this.deakin.edu.au/self-improvement/car-wars) by Cory Doctorow
+* [Car Wars](https://doctorow.medium.com/car-wars-a01718a27e9e) by Cory Doctorow ([audio](https://archive.org/details/CarWars))
 * [Does ACM's code of ethics change decision making](https://dl.acm.org/doi/10.1145/3236024.3264833) 
 * [What we learned from NeurIPS 2020 reviewing process](https://neuripsconf.medium.com/what-we-learned-from-neurips-2020-reviewing-process-e24549eea38f)
 * An episode of Black Mirror or other near-future speculative fiction like Gattaca.
