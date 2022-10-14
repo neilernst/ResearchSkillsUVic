@@ -10,6 +10,7 @@
 
 - Difference between ethics of human subjects research, and ethics of the research goals itself (the latter is usually not reviewed for academic freedom reasons, but has public opinion review), and ethical conduct in research (plagiarism, fake data, self citation, review circles).
 - Ethics is rarely black and white. We have to balance competing priorities and it may not seem unethical until later. The pressure in academia can feel intense! Reach out to university counselling resources or trusted professors if you feel you need some help.
+
 ### Human Subjects and Ethical Research
 
 Discuss why we need such a review. 
