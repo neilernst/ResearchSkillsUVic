@@ -50,6 +50,7 @@ What should the criteria be? What about other venues or different types of paper
 
 * [RetractionWatch](https://retractionwatch.com)
 * [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan#Mathematicians'_views_of_Ramanujan)
+* https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html
 
 ## Activity
 
