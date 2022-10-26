@@ -21,20 +21,20 @@ The schedule below highlights modules and due dates. Click on the module name to
 | 3 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
 | 4 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) • Friday: National Day for Truth and Reconciliation - no class. |  |
 | 5 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
-|6 | *** AMA. Grad student panel. |  |
-|7 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
-| 8 | [Qualitative Research Methods](resources/qual/qual-notes.md). Prof XXX AMA. |  |
-| 9 | No lectures. Work on PC discussions and research proposal. | | 
-| 10 | [Quantitative and Formal Research Methods](resources/qual/qual-notes.md). Reading Break Wed/Fri (no class) | Mock PC reviews discussion completed |
-| 11 | *** AMA. Managing Research Relationships and the Research Career | |
-| 12 |  Working with big data. Using Compute Canada | Conference report |
-| 13 |  | Research plan |
+| 6 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
+| 7 | Sowmya Somanath AMA. Ethics and Networking |  |
+| 8 | George Tzanetakis AMA. [Qualitative Research Methods](resources/qual/qual-notes.md). PhD panel. ||
+| 9 | Working with big data. Using Compute Canada. 1-1 proposal meetings | |
+| 10 | [Quantitative and Formal Research Methods](resources/quant/quant-notes.md). Reading Break Wed/Fri (no class) | Mock PC reviews discussion completed |
+| 11 | Quantitative continued. Ulrike Stege AMA | |
+| 12 |  Anthony Estey AMA. | Conference report |
+| 13 | Catch up and peer review work. | Research plan |
 
 ### Holidays and Travel
 There is no lecture:
 
 * Sept 30 (Fri), [national day for truth and reconciliation](https://www2.gov.bc.ca/gov/content/governments/indigenous-people/national-day-for-truth-and-reconciliation)
-* Oct 28, Nov 1-4 (Neil - travel), work on research proposal and ethics training
+* Nov 1 and 4 (Neil - travel), work on research proposal and ethics training
 * Nov 9, 11 (Reading Week), no assignments
 
 ## References
