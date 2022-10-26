@@ -25,9 +25,9 @@ The schedule below highlights modules and due dates. Click on the module name to
 | 7 | Sowmya Somanath AMA. Ethics and Networking |  |
 | 8 | George Tzanetakis AMA. [Qualitative Research Methods](resources/qual/qual-notes.md). PhD panel. ||
 | 9 | Working with big data. Using Compute Canada. 1-1 proposal meetings | |
-| 10 | [Quantitative and Formal Research Methods](resources/quant/quant-notes.md). Reading Break Wed/Fri (no class) | Mock PC reviews discussion completed |
+| 10 | [Qualitative Research Methods](resources/qual/qual-notes.md) cont. [Quantitative and Formal Research Methods](resources/quant/quant_notes.md). Reading Break Wed/Fri (no class) | Mock PC reviews discussion completed |
 | 11 | Quantitative continued. Ulrike Stege AMA | |
-| 12 |  Anthony Estey AMA. | Conference report |
+| 12 |  Anthony Estey AMA. Tools for research. | Conference report |
 | 13 | Catch up and peer review work. | Research plan |
 
 ### Holidays and Travel
