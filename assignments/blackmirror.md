@@ -2,7 +2,7 @@
 
 ## Due:  
 
-* Oct 16, 2022
+* See Brightspace
 
 ## Overview
 
@@ -20,3 +20,4 @@ See [here](https://docs.google.com/presentation/d/1fZah6nYpAhLtUMh1BRy3w1vCHk_-W
 5. What is their story?
 6. Use the slide template (copy Slide 21 of the link) to create a blurb. 
 7. Present that blurb and a longer pitch to the class. 
+8. Submit your materials via Brightspace.
