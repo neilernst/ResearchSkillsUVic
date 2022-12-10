@@ -1,6 +1,6 @@
 # Assessment			
 
-CSC 595 is a Pass/Fail course. You must pass all of the below components to pass the course.
+CSC 595 is a Pass/Fail course. You must pass all of the below components to pass the course. The submissions should be done via Brightspace. 
 
 | Component | Description | Weight |
 |--------|--------|---------|
@@ -11,5 +11,3 @@ CSC 595 is a Pass/Fail course. You must pass all of the below components to pass
 | Research elevator pitch and intro | Present to class | Do it |
 | Complete TriCouncil IRB training |  https://tcps2core.ca/register | complete |
 | Participation	| Marked based on attendance, participation online, contributions to discussions | |
-
-​			
