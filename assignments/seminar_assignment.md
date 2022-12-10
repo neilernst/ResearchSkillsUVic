@@ -2,7 +2,7 @@
 
 ## Due:  
 
-* Nov 25, 2022
+* see Brightspace for due date
 
 ## Overview
 
