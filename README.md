@@ -23,12 +23,12 @@ For Fall 2023, Week 1 starts September 13. Classed end Nov 29.
 | 1 | [What is Research?](resources/elevator/what_is_research.md) | |
 | 2 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
 | 3 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
-| 4 | [Reviewing Papers](resources/reviewing/M4%20Reading.md) • Friday: National Day for Truth and Reconciliation - no class. |  |
+| 4 | [Reviewing Papers](resources/reviewing/M4%20Reading.md)  |  |
 | 5 | [Research Ethics](resources/ethics/ethics_and_research.md) | Black Mirror exercise in class. |
 | 6 | [Peer Review Process.](resources/peer/peer.md) [Presenting your work and yourself](resources/presenting/Presenting.md) | Peer Review exercise on HotCRP. Make a Twitter account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
 | 7 | AMA. Networking. |  |
 | 8 | AMA. [Qualitative Research Methods](resources/qual/qual-notes.md). PhD panel. ||
-| 9 | Reading Break Wed (no class)  | |
+| 9 | Reading Break (no class)  | |
 | 10 | [Quantitative and Formal Research Methods](resources/quant/quant_notes.md). Using computational resources. | Mock PC reviews discussion completed |
 | 11 | Quantitative continued. AMA | |
 | 12 |  Neil away. 1-1 meetings. | Conference report |
