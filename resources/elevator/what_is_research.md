@@ -6,16 +6,14 @@
 * Create elevator pitch
 * Evaluate and synthesize your key research contributions (or *planned contributions!*)
 
-## Day 1
+## Hour 1
 
 - Introductions
 - * **Ethics and inclusivity discussion.** It is vital we feel safe in this small class: please consider the things shared in class to be confidential to our class, unless you obtain explicit permission to share (e.g., reviews, experiences, stories).
 - research paradigms quiz and discussion
 
-## Day 2
+## Hour 2
 
-* Housekeeping: 
-  * Elevator pitches
 * Continue introductions!
 * Hamming discussion.
 * Elevator pitch videos.
