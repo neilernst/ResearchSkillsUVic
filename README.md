@@ -47,7 +47,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 ## Teaching Staff:
 
 - [Neil Ernst](https://www.neilernst.net/) (Instructor)
-- [Sathvi Divili](Teaching Assistant)
+- [Sathvik Divili](Teaching Assistant)
 
 **Office Hour:** By appointment or see [HEAT](http://heat.csc.uvic.ca/coview/course/2023091/CSC595)
 Please email me to set up a meeting.

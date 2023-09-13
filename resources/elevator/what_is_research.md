@@ -8,17 +8,22 @@
 
 ## Hour 1
 
-- Introductions
+- [Introductions and syllabus](introduction.pdf)
 - * **Ethics and inclusivity discussion.** It is vital we feel safe in this small class: please consider the things shared in class to be confidential to our class, unless you obtain explicit permission to share (e.g., reviews, experiences, stories).
-- research paradigms quiz and discussion
+- research paradigms quiz and discussion on mentimeter
+- [what is research](whatisresearch.pdf) slides
+
 
 ## Hour 2
 
 * Continue introductions!
 * Hamming discussion.
 * Elevator pitch videos.
-* Elevator pitches (small groups). Keep your elevator pitch around and keep polishing it as we work in the course. I'll call on you to present your pitch to the class during the semester, so we do about 2 per class.
+* Elevator pitches (small groups). Work on your pitch on paper. Then in small groups, share with your friends.  Keep your elevator pitch around and keep polishing it as we work in the course. I'll call on you to present your pitch to the class during the semester, so we do about 2 per class.
 
+## Hour 3
+  
+- 
 ## Notes/Slides
 
 - [slides](introduction.key)
