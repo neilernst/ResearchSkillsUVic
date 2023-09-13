@@ -23,7 +23,8 @@
 
 ## Hour 3
   
-- 
+- epistemology start, overflow from hour 2
+
 ## Notes/Slides
 
 - [slides](introduction.key)

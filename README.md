@@ -16,7 +16,7 @@ The main objective of this course is to introduce students to the process of doi
 
 The schedule below highlights modules and due dates. Click on the module name to see the notes, readings, video links etc for that module. 
 
-For Fall 2023, Week 1 starts September 13. Classed end Nov 29. 
+For Fall 2023, Week 1 starts September 13. Classes end Nov 29. 
 
 |Week | Module | Items Due (Fri, midnight, grace until Sunday midnight) |
 |---|---|--|
@@ -39,7 +39,7 @@ There is no lecture:
 
 * Sept 6 (neil travel)
 * Nov 15 (Reading Break), no assignments
-* Nov 29 (tentative)
+* Oct 18 (tentative)
 
 ## References
 See the resources for each lecture in the schedule above for an extensive list of assigned materials and optional references. 
@@ -50,7 +50,7 @@ See the resources for each lecture in the schedule above for an extensive list o
 - [Sathvik Divili](Teaching Assistant)
 
 **Office Hour:** By appointment or see [HEAT](http://heat.csc.uvic.ca/coview/course/2023091/CSC595)
-Please email me to set up a meeting.
+Please email/Teams message me to set up a meeting.
 
 **Contact email:** [nernst@uvic.ca](mailto:nernst@uvic.ca)
 
