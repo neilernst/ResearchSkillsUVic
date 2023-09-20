@@ -98,7 +98,7 @@ Again, the specifics - such as which measures of accuracy to use - are highly sp
 
 ### Formal Proof Approaches
 
-Bruce mentioned a lot of these the other day. Commonly used approaches include 
+Commonly used approaches include 
 
 - Explicit definitions of assumptions, problem statements, axioms;
 - taking existing techniques and applying them to new problems; 

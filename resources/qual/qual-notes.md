@@ -65,7 +65,7 @@ One question we can ask is "given the same data set, would another person find t
 
 We could measure the inter-rater agreement or reliability using common techniques such as Cohen's kappa, and then make an argument as to why that justifies validity of the coding approach.
 
-My view: the real question is how reliable is the coding guide. The best way to validate this is to conduct robust coding agreement sessions and refinement of the coding guide/taxonomoy. 
+**My view**: the real question is how reliable is the coding guide. The best way to validate this is to conduct robust coding agreement sessions and refinement of the coding guide/taxonomoy. 
 
 ## Exercise
 
@@ -73,15 +73,15 @@ Let's suppose we have a study planned into how people update SO questions. For e
 
 Visit the [Google sheet here](https://drive.google.com/file/d/1KvQCYx9TJXgHdU5CURsbiijKWM2zhmcP/view?usp=sharing). Make a copy of it or download it.
 
-Spend 5 minutes adding labels to at least 10 rows of the data.
+##### Spend 5 minutes adding labels to at least 5 rows of the data.
 
-## <!--Exemplar Readings-->
+## Exemplar Readings
 
-* <!--**Interviews**: *Barwulor, C., McDonald, A., Hargittai, E., & Redmiles, E. M. (2021)“*[Disadvantaged in the American-dominated internet”: Sex, Work, and Technology](https://files.osf.io/v1/resources/vzehu/providers/osfstorage/5f63a97211fb7c000f18f2c7?format=pdf&action=download&direct&version=2)*. In Proceedings of the 2021 ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) (pp. 931-936). [paper](sex_work_tech_use.pdf)-->
-* <!--**Ethnography**:--> 
+* See e.g. examples from the SIGSOFT standards on [qualitative surveys](https://acmsigsoft.github.io/EmpiricalStandards/docs/?standard=QualitativeSurveys).
 
 ## Optional and Recommended
 
-* Research design: qualitative, quantitative and mixed methods approaches Creswell, John W. Sage, 2018.
+* Research design: qualitative, quantitative and mixed methods approaches. Creswell, John W. Sage, 2018.
 * The [links on Dr Storey's course page.](https://github.com/margaretstorey/EmseUvic2020/blob/master/resources/methods.md)
 
+​	

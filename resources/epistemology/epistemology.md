@@ -12,15 +12,15 @@ author: Neil Ernst
 * Describe different key developments in epistemology
 * Relate phil. of science to your research
 
-## Day 1
-- elevator pitch description 
-- elevator pitch breakout groups - present pitches to 4 others
-- upload your pitch to Brightspace in the assignments
 
-## Day 2
+## Part 1
+- finish elevator pitch and do small group presentations/ice breaker
+
+## Part 2
 - research paradigms from Easterbrook
 	- Is CS an empirical science? A physical science? A social science? What Faculty should we live in? 
 	- What is the role of theory in CS?
+## Part 3
 - the onion model exercise (breakouts)
 	- Neil's research in the onion
 - ABCs and McGrath's circumplex 
@@ -159,7 +159,11 @@ As I mentioned problems have emerged with the "standard" statistical inferential
 
 * [Guide to Advanced Empirical SE - Selecting Research Methods](EmpiricalSEEasterbrook.pdf)
 * [ABCs of Research](ABC-SE.pdf)
-
+* [The Curse of Performative User Studies](https://aaronhertzmann.com/2023/04/27/user-studies.html)
+  
 Optional:
 
+- [LeCun, The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)
 - Our [Who What How framework](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z)
+- [Philosophy of Math](https://plato.stanford.edu/entries/philosophy-mathematics/) (section 1 and 2)
+- [The Many Faces of Systems Research](https://www.usenix.org/legacy/event/hotos05/final_papers_backup/red_team/red_html/paper.html)
