@@ -12,14 +12,21 @@ author: Neil Ernst
 * Describe different key developments in epistemology
 * Relate phil. of science to your research
 
-
+---
 ## Part 1
+- Hamming
+- Heilmeyer
 - finish elevator pitch and do small group presentations/ice breaker
+  - in groups of 4: pitch one another; critique each pitch for 
+    - understandability
+    - excitingness
+    - technical challenge
 
 ## Part 2
 - research paradigms from Easterbrook
 	- Is CS an empirical science? A physical science? A social science? What Faculty should we live in? 
 	- What is the role of theory in CS?
+
 ## Part 3
 - the onion model exercise (breakouts)
 	- Neil's research in the onion
@@ -29,13 +36,17 @@ author: Neil Ernst
 ## Slides and Notes
 - The progress of scientific inquiry. What is the point of science?
 - Figuring out where your research fits in these paradigms.
+- Big caveat: 
+
+---
+![](https://i.imgflip.com/7zuou2.jpg)
 
 ---
 # What sort of research questions are you asking:
 - **knowledge-seeking** questions:
   - exploratory: understand the problem, surface new insights, generate new hypotheses. Inductive. Often done in data analytics and data mining research. 
   - confirmatory: given a **specific**, **falsifiable** hypothesis, along with some prior beliefs, gather evidence about the phenomenon. Experiments help us control exogenous influences (i.e. colliders in a causal network model).
-- **design oriented**: I want to fix a problem in a real setting. Solution-seeking
+- **design oriented**: I want to fix a problem in a real setting. aka **Solution-seeking**
 - **logical deductive**: I want to establish ("prove") some new knowledge based on a set of axioms and proof approaches.
 
 ---
@@ -65,7 +76,7 @@ The [garden of forking paths.](https://slate.com/technology/2013/07/statistics-a
 
 ----
 ### Logical deduction (rationalism)
-- the epistemology of theoretical CS
+- the epistemology of mathematics and a lot of theoretical CS
 - Euclid and non-Euclidean geometry
 	- [Postulates and axioms](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/non_Euclid_fifth_postulate/index.html#Euclid1): parallel lines never intersect; points may be connected with a straight line, etc.
 	- What is the connection to "reality"?
@@ -107,8 +118,10 @@ I need to measure some effect in the real world. Science is the accumulation of 
 ----
 #### Critical theorists and constructionists
 But knowledge is not an objective thing: it is situated within messy human structures. Data do not appear fully formed but are interpreted and constructed.
+
 It is vital to situate knowledge within a context. Thus ethnographies depend on what we are studying (e.g., homeless populations in Edmonton), but also who is doing the study (the ethnographer). What the ethnographer sees will be coloured by their perspective. "Generalizing" to other situations (Calgary, USA, homeless but not mentally ill populations) is difficult. Rely on replication and triangulation to find general effects. 
-Critical theory extends this to specific philosophical perspectives such as gender or class (can we understand homelessness outside of the system of capitalism that Edmonton operates in)
+
+**Critical theory** extends this to specific philosophical perspectives such as gender or class (can we understand homelessness outside of the system of capitalism that Edmonton operates in)
 
 ----
 - Are there "laws" in social sciences? 
