@@ -172,10 +172,11 @@ As I mentioned problems have emerged with the "standard" statistical inferential
 
 * [Guide to Advanced Empirical SE - Selecting Research Methods](EmpiricalSEEasterbrook.pdf)
 * [ABCs of Research](ABC-SE.pdf)
-* [The Curse of Performative User Studies](https://aaronhertzmann.com/2023/04/27/user-studies.html)
+
   
 Optional:
 
+- [The Curse of Performative User Studies](https://aaronhertzmann.com/2023/04/27/user-studies.html)
 - [LeCun, The Epistemology of Deep Learning](https://www.youtube.com/watch?v=gG5NCkMerHU)
 - Our [Who What How framework](https://link.springer.com/article/10.1007%2Fs10664-020-09858-z)
 - [Philosophy of Math](https://plato.stanford.edu/entries/philosophy-mathematics/) (section 1 and 2)
