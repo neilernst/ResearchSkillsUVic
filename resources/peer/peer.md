@@ -14,7 +14,6 @@
 
 * Gatekeeping
 * Quality checks
-* 
 
 ### The conference model
 
@@ -25,8 +24,11 @@ Review criteria.
 ### The journal model
 
 Revision letters. 
+- LatexDiff
+- Letter to the editor explaining differences. Neil's example.
+- Polite, professional, to the point. 
 
-### Good reviews
+### Writing Good reviews
 
 * Focus on the paper not the author
 * Provide actionable advice that can improve the paper
@@ -50,13 +52,13 @@ What should the criteria be? What about other venues or different types of paper
 
 * [RetractionWatch](https://retractionwatch.com)
 * [Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan#Mathematicians'_views_of_Ramanujan)
-* https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html
+* [Rebuttal tips](https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html)
 
 ## Activity
 
-* Read 2 papers on our HotCRP site. Enter your reviews (Mar 19). Engage in the discussion by posting at least 2 comments on each paper in addition to your review. Decisions are Mar 31.
+* Read 2 papers on our HotCRP site. Enter your reviews. Engage in the discussion by posting at least 2 comments on each paper in addition to your review. Decisions are Nov 29.
 * Discussion question: what do YOU want from a review? 
-* Post your favourite critique to the chat.
+* Post your favourite critique (Mentimeter).
 
 ## Readings (before class)
 
