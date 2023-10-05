@@ -17,7 +17,13 @@ We will conduct a mini PC review and discussion using the 595 HotCRP instance - 
 - Upload the paper from Arxiv to the HotCRP site. DO NOT ENTER AUTHOR INFORMATION! Use your own email and a blank affil.
 - In the abstract section please do NOT copy and paste the abstract: summarize instead the paper and point me to some of the relevant expertise needed (e.g., diagonalization, abstract interpretation, controlled experiments, software safety). This helps me to distribute it accurately.
 - After the first deadline I will ask you to bid on papers to review.
-- I will then assign reviews to you on that paper, along with 1-2 classmates. You will also have one other paper that is less related to review (very realistic in PC meetings!)
-- Enter reviews for each paper (deadline 2). Your review should be at least 500 words in total, and follow the template in the HotCRP form. Remember you are providing feedback to the editor/PC chair, so specific, actionable remarks are needed (avoid generalities like "the authors did not comment on related work").
--  We will then have an asynchronous discussion for the papers we might accept. 
+- I will then assign reviews to you, along with 2 classmates. I cannot guarantee your paper will be one of them, based on numbers (2 reviews means we can only cover 2/3rds of the papers).
+- You will have at least one other paper that is less related to review (very realistic in PC meetings!)
+- Enter reviews for each paper (deadline 2).
+    - Your review should be at least 500 words in total, and follow the template in the HotCRP form.
+    - Remember you are providing feedback to the editor/PC chair, so specific, actionable remarks are needed.
+    - Avoid generalities like "the authors did not comment on related work", and do not spend 300 words summarizing the paper.
+    - A good review will take AT LEAST 1-2 hours of reading, and 1-2 hours of writing.
+    - Subpar reviews will result in a mark of "fail" and you will have to fix your review before you can pass this assignment (and thus, the course).
+-  We will then have an asynchronous discussion (i.e., you + the other 2 reviewers) for the papers we might accept. 
 - Conclude the discussion with a recommendation for the PC chair.
