@@ -3,8 +3,11 @@
 ## Due:
 
 - Deadline 1: Upload an Arxiv paper to HotCRP by **Week 4.**
+- Deadline 1b: Submit your bids on which papers to review in HotCRP by **Week 5**.
 - Deadline 2: Enter your 2 reviews by **Week 8**. 
 - Deadline 3: Add your review comments by **Week 11**.
+
+All deadlines are Friday, with grace period until Sunday.
 
 ## Overview
 
@@ -16,7 +19,7 @@ We will conduct a mini PC review and discussion using the 595 HotCRP instance - 
   - the paper should be at least 10 pages, and research focused, i.e., not a literature review or magazine opinion piece. 
 - Upload the paper from Arxiv to the HotCRP site (**deadline 1**). DO NOT ENTER AUTHOR INFORMATION! Use your own email and a blank affil.
 - In the abstract section please do NOT copy and paste the abstract: summarize instead the paper and point me to some of the relevant expertise needed (e.g., diagonalization, abstract interpretation, controlled experiments, software safety). This helps me to distribute it accurately.
-- After the first deadline I will ask you to bid on papers to review.
+- After the first deadline I will ask you to bid on papers to review (**deadline 1b**).
 - I will then assign reviews to you, along with 2 classmates. I cannot guarantee your paper will be one of them, based on numbers (2 reviews means we can only cover 2/3rds of the papers).
 - You will have at least one other paper that is less related to review (very realistic in PC meetings!)
 - Enter reviews for each paper (**deadline 2**).
