@@ -22,8 +22,8 @@ For Fall 2023, Week 1 starts September 13. Classes end Nov 29.
 |---|---|--|
 | Sep 13 / Week 1 | [What is Research?](resources/elevator/what_is_research.md) | |
 | Sep 20 / Week 2 | [Ways of knowing and philosophy of science](resources/epistemology/epistemology.md) | Elevator pitch (in class) |
-| Sep 27 / Week 3 | [Writing Papers](resources/writing/writing.md) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
-| Oct 4 / Week 4 | AMA Sajin Koroth. [Reviewing Papers](resources/reviewing/M4%20Reading.md) • [Peer Review Process.](resources/peer/peer.md)| Peer Review exercise on HotCRP. |
+| Sep 27 / Week 3 | [Writing Papers](resources/writing/writing.qmd) | Fill in bidding/expertise in [HotCRP](https://uvic-csc595.hotcrp.com). Upload 1 preprint to conference site. |
+| Oct 4 / Week 4 | AMA Sajin Koroth. [Reviewing Papers](resources/reviewing/M4%20Reading.qmd) • [Peer Review Process.](resources/peer/peer.qmd)| Peer Review exercise on HotCRP. |
 | Oct 11 / Week 5 | AMA Sean Chester. [Research Ethics](resources/ethics/ethics_and_research.md)  |   Black Mirror exercise in class. |
 | Oct 18 / Week 6 | Neil remote = send in draft research plans and [schedule 1-1](https://calendly.com/neil-142/30min).  | Do Peer reviews  |
 | Oct 25 / Week 7 | AMA Yun Lu. Networking. • [Qualitative Research Methods](resources/qual/qual-notes.md). |  |
