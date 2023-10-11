@@ -1,3 +1,13 @@
+---
+format:
+  revealjs:
+    theme: solarized
+    smaller: true
+    scrollable: true
+    incremental: true
+    footer: "©️ Neil Ernst"
+---
+
 # Ethical Issues in CS Research
 
 ## Learning Objectives

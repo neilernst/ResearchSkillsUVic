@@ -1,2 +1,7 @@
 *.key
 writing_files
+resources/peer/peer_files/*
+resources/reviewing/M4 Reading_files/*
+resources/writing/SODesign Paper New (Version 56)/*
+.DS_Store
+.gitignore
