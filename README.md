@@ -31,7 +31,7 @@ For Fall 2023, Week 1 starts September 13. Classes end Nov 29.
 | Nov 8 / Week 9 | Getting the Most out of The Library guest presentation. Using computational resources. Intro Quant methods. || 
 | Nov 15 / Week 10 | **Reading Break (no class)**  | |
 | Nov 22 / Week 11 | [Quantitative and Formal Research Methods](resources/quant/quant_notes.md).  | Mock PC reviews discussion completed |
-| Nov 29 / Week 12 |  Neil away. [Schedule 1-1 meetings](https://calendly.com/neil-142/30min). | Conference report • Research plan |
+| Nov 29 / Week 12 |  no class - work on research plan - schedule meeting if needed. | Conference report • Research plan |
 
 ### Holidays and Travel
 There is no lecture:
