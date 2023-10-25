@@ -1,39 +1,53 @@
-# Qualitative Research Approaches in CS
+---
+title: Qualitative Research Approaches in CS
+author: Neil Ernst
+date: last-modified
+format:
+  revealjs:
+    theme: solarized
+    smaller: true
+    scrollable: true
+    incremental: true
+    footer: "©️ Neil Ernst"
+---
 
-## Learning Objectives
+# Learning Objectives
+Q: what haven't we covered yet that you want to cover?
+
 
 * Learn about the scope of qualitative research in CS
 * Summarize different qualitative research methods
 * See some exemplars of excellent qualitative CS papers
 
-## Notes
 
-Q: what haven't we covered yet that you want to cover?
-
+# 
 ![](creswell-table.png)
 
 I don't particularly like the qual/quant distinction - I find it more useful to look at research strategies using the ABC or WWH or Circumplex frameworks. 
 
-[Saner slides]
+See the lectures from [Epistemology](https://github.com/neilernst/ResearchSkillsUVic/blob/main/resources/epistemology/epistemology.md)
 
-But typically qualitative research refers to research strategies that analyze the evidence *qualitatively*, i.e., interpretively. Data sources that fit well in these strategies are personal narratives, observations of users, interview transcripts, texts like books or videos, open-ended survey answers, etc. 
+#
+Typically qualitative research refers to research strategies that analyze the evidence *qualitatively*, i.e., interpretively. Data sources that fit well in these strategies are personal narratives, observations of users, interview transcripts, texts like books or videos, open-ended survey answers, etc. 
 
-Qualitative research is more often associated with constructivist and interpretivist philosophies. 
+Qualitative research is more often associated with constructivist and interpretivist philosophies. See the [sex workers and tech](https://osf.io/preprints/socarxiv/vzehu/) paper.
 
 Good qualitative research is **no less valid** than quantitative research.
 
-Yin's case study inference diagram. Focus on units of analysis. 
+## Yin's case study inference diagram
 
-![yin-inferences](yin-inferences.jpeg)
+Focus on units of analysis. 
 
-### Qualitative Methods (established)
+![Yin , Case Study Research 2013](yin-inferences.jpeg)
+
+## Qualitative Methods (established)
 
 * surveys (both qual/quant)
 * interviews
 * ethnography/participant observation
 * contextual inquiry
 
-### Methods (emerging/lesser known in CS)
+## Methods (emerging/lesser known in CS)
 
 * Narrative analysis
 * Action Research
@@ -41,13 +55,13 @@ Yin's case study inference diagram. Focus on units of analysis.
 * Focus groups
 * ... 
 
-### Analysis Approaches
+## Analysis Approaches
 
 * [grounded theory](https://dl.acm.org/doi/10.1145/2884781.2884833) 
-* thematic coding
-* Coding from predefined coding categories 
+* Thematic coding
+* Coding from predefined coding categories (deductive)
 
-### Validity and qualitative research
+## Validity and qualitative research
 
 A common critique of these methods is "the plural of anecdote is not data". As Yin's diagram shows, though, qualitative research is rarely just anecdote (and we can of course learn from anecdote! Aesop's fables are one example). However, a good question to ask when reading such work is "how do I know this is a true account and legitimate interpretation" of the data?
 
@@ -57,7 +71,7 @@ A common critique of these methods is "the plural of anecdote is not data". As Y
 - Measure reliability 
 - Self-critique and journalling
 
-### Coding Data
+## Coding Data
 
 Qualitative data is increasingly analyzed with tools, e.g., NLP techniques for extracting narrative summaries, micro-narratives that can be quickly grouped into themes. But human interpretation of the data is still really important. It's both incredibly insightful and incredibly boring to do. 
 
@@ -67,21 +81,26 @@ We could measure the inter-rater agreement or reliability using common technique
 
 **My view**: the real question is how reliable is the coding guide. The best way to validate this is to conduct robust coding agreement sessions and refinement of the coding guide/taxonomoy. 
 
-## Exercise
+# Exercise
 
-Let's suppose we have a study planned into how people update SO questions. For example, our working theory might be that the edit comments on SO questions tell us something about how knowledge is curated on SO. So we want to begin looking through the data to see how well that works. 
+Let's suppose we have a study planned into *how people update SO questions*. For example, our working theory might be that the edit comments on SO questions tell us something about how knowledge is curated on SO. So we want to begin looking through the data to see how well that works. 
 
 Visit the [Google sheet here](https://drive.google.com/file/d/1KvQCYx9TJXgHdU5CURsbiijKWM2zhmcP/view?usp=sharing). Make a copy of it or download it.
 
-##### Spend 5 minutes adding labels to at least 5 rows of the data.
+# Exercise
+* Q: how do people **update** SO questions? 
+* on your own: spend 5 minutes adding labels to at least 10 rows of the data.
+* with a partner: compare the labels you each came up with. 
 
-## Exemplar Readings
+# Reviewing Qualitative Work
+The SIGSOFT standards give plenty of guidance, e.g. on [qualitative surveys](https://acmsigsoft.github.io/EmpiricalStandards/docs/?standard=QualitativeSurveys).
 
-* See e.g. examples from the SIGSOFT standards on [qualitative surveys](https://acmsigsoft.github.io/EmpiricalStandards/docs/?standard=QualitativeSurveys).
+# Exemplar Readings
 
-## Optional and Recommended
+* See e.g. example papers from the SIGSOFT standards on [qualitative surveys](https://acmsigsoft.github.io/EmpiricalStandards/docs/?standard=QualitativeSurveys).
+
+# Optional and Recommended
 
 * Research design: qualitative, quantitative and mixed methods approaches. Creswell, John W. Sage, 2018.
 * The [links on Dr Storey's course page.](https://github.com/margaretstorey/EmseUvic2020/blob/master/resources/methods.md)
-
-​	
+* [Sex Work and Tech paper](https://osf.io/preprints/socarxiv/vzehu/)
