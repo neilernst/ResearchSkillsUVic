@@ -27,7 +27,7 @@ For Fall 2023, Week 1 starts September 13. Classes end Nov 29.
 | Oct 11 / Week 5 | AMA Sean Chester. [Research Ethics](resources/ethics/ethics_and_research.qmd)  |   Black Mirror exercise in class. |
 | Oct 18 / Week 6 | Neil remote = send in draft research plans and [schedule 1-1](https://calendly.com/neil-142/30min).  | Do Peer reviews  |
 | Oct 25 / Week 7 | AMA Yun Lu. [Qualitative Research Methods](resources/qual/qual-notes.qmd). |  |
-| Nov 1 / Week 8 | AMA Teseo Schneider.  [Networking](resources/presenting/networking.pdf). • [Presenting your work and yourself](resources/presenting/Presenting.qmd)  |Make a LinkedIn/Mastodon/etc. account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
+| Nov 1 / Week 8 | AMA Teseo Schneider.   [Presenting your work and yourself](resources/presenting/Presenting.qmd)  | Make a LinkedIn/Mastodon/etc. account, a Google scholar profile, and an Orcid account. Answer the Q: how can I email you? |
 | Nov 8 / Week 9 | Getting the Most out of The Library guest presentation. Using computational resources. Intro Quant methods. || 
 | Nov 15 / Week 10 | **Reading Break (no class)**  | |
 | Nov 22 / Week 11 | [Quantitative and Formal Research Methods](resources/quant/quant_notes.qmd).  | Mock PC reviews discussion completed |

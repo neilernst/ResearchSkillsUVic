@@ -183,13 +183,15 @@ Filling the slides with information will easily overload people's cognitive syst
 The presentations should help learners to select, organize, and integrate presented information.
 
 ## Tips
-* Have a slide title that explains the main idea 
-    * “We did X, Y, Z” rather than “Contributions”
+Have a slide title that explains the main idea 
+
+* “We did X, Y, Z” rather than “Contributions”
 
 Keep the narrative obvious (see Schimel and writing tips)
 
-* Minimize text in favour of narration 
-    * may be challenging for EFL speakers!
+Minimize text in favour of narration 
+
+* may be challenging for EFL speakers!
 
 ## Tips
 
@@ -220,7 +222,6 @@ In groups of 4, find an online presentation and critique its style
 - also see Slideshare, SpeakerDeck
 
 Share the URL, and one improvement your group found.
-
 
 ## Activity
 
