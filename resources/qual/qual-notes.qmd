@@ -5,7 +5,7 @@ date: last-modified
 format:
   revealjs:
     theme: solarized
-    smaller: true
+    smaller: false
     scrollable: true
     incremental: true
     footer: "©️ Neil Ernst"

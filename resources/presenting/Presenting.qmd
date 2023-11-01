@@ -1,23 +1,234 @@
-# Presenting
+---
+title: Presentations and Networking
+author: Neil Ernst
+date: Oct 2023
+format:
+  revealjs:
+    theme: solarized
+    smaller: false
+    scrollable: true
+    incremental: false
+    footer: "©️ Neil Ernst"
+---
 
 ## Learning Objectives
 
 * Learn the importance of "marketing" yourself.
 * Learn about how social networks are important in science.
+* Appreciate what makes presentations effective
 
-## Slides and Notes
-[Slides](networking.pdf)
 
-## Other resources:
-- https://www.poundstopocket.co.uk/pound-place/wp-content/uploads/2018/03/Design_How-to-look-and-sound-more-confident.png
-- [Presentation Patterns](https://presentationpatterns.com)
+## Networks and the power of networking
+
+drawn from Marian Petre’s chapter on Networking, in the Unwritten rules of phd book, Mike Hilton’s Twitter notes, Michael Marcozzi, Bogdan Vasilescu on Powerpoint
+
+##
+completing a phd takes a village, you are not alone
+
+identifying, creating and nourishing your networks is a skill but powerful strategy
+
+## identify your networks
+* supervisors and supervisory committee
+* personal support network 
+* experts at arm’s length 
+* Fellow students! (who become colleagues, profs, researchers, CEOs)
+
+## find experts
+authors of particularly relevant papers
+people you meet at conferences
+people recommended by someone reliable
+
+do some homework: 
+
+* check their website
+* ask people who know them
+* check with their secretary as to when you can meet them
+
+## cold calls
+* in person (at your local department) much easier
+* via email 
+* at a meeting or conference
+
+## cold call checklist
+* did you get their name and title right?
+* does your question show that you’ve done some homework?
+* does your mentor/supervisor think that your question looks interesting?
+* how long would it take a reasonable human being to write a reply to your question? (if it’s more than 10 min, consider rephrasing)
+* is your message so long that it scrolls off the page? (if so, shorten it)
+* does the message show you in good light, as someone who can spell, write clearly, think and generate interesting questions?
+* does the message offer them anything (e.g. access to data) and if so, can you deliver on that promise?
+
+## conference meeting
+* have something to say interesting and relevant (a compliment + a question)
+* follow up after their presentation
+* ask someone to introduce you
+* have a business card at hand
+* don’t underestimate yourself, remember that great researchers are usually great because: 
+* they love ideas and asking questions 
+* they were once research students and many of them still remember that!
+
+## do not forget
+to include in your networks: 
+
+* mentors (they teach you the unwritten rules and have an interest in your personal, professional and intellectual development)
+* secretaries and other support staff (never confuse salary with worth)
+* “wonderful” people
+
+## PhDComics on Twitter
+
+<img src="http://www.phdcomics.com/comics/archive/phd082014s.gif">
+
+## Social media
+Ones I use professionally :
+
+Mastodon (88%)
+
+Github (10%) (for social purposes that is)
+
+LinkedIn (2%)
+
+## Dangers
+Efficient waster of time
+
+Dodgy ethical practices
+
+Blurs lines of work and home/personal
+
+## Benefits
+* Spreads ideas (the agora)
+* Amplify papers, advertise talks, share slides, share preprints
+* Increases citations
+* Inform people of what you are doing
+* Engage across hierarchies and geographies
+* Look for jobs, advertise new opportunities
+
+## keep up with research 
+Follow influential researchers
+
+Keep up with latest ideas
+
+Follow practitioners
+
+Engage with community 
+
+Conferences: an effective backchannel for moaning about jet lag, finding others for dinner, engaging with ideas
+
+## Starting out
+As you start out, you are building a reputation. Social media is part of that.
+
+Be professional and recognizable. Possible employers might look at it.
+
+Stay out of argument sinkholes. Some discussions are not productive on Twitter/social media. 
+
+## Building reputation
+Own your scientific record
+
+Create and prune your Scholar / Semantic Scholar profile
+
+Create an ORCiD 
+
+Join ACM or IEEE and curate your articles there
+
+## Reputation
+Make your articles public - host the preprints on Arxiv
+
+Consider creating a blog or personal website. 
+
+In SE, Github is pretty important. Shows credibility with code, software practice. Often true in ML (paperswithcode.com) and systems.
+
+Publish in good venues
+
+I personally ignore ResearchGate, academia.edu and other remora. But YMMV.
+
+## Building a presence
+Ensure people can contact you! 
+
+Make your email visible (and stop with the antispam crap, it doesn’t work)
+
+Forward emails when you move
+
+Say yes to service (but learn to say no judiciously)
+
+Centralize your points of contact (Discord, Slack, Teams, Twitter, email, voice mail)
+
+## Presentations
+Two main non paper / non-written interactions:
+
+* Social media
+* Presenting/chatting at a conference
+
+Chatting: elevator pitch
+
+## Cognitive limits of the audience
+First, who is the audience? What is the venue? 
+
+At a conference, you have 15-25 minutes to present your research
+
+There may be 10-15 talks that day, over 2-3 days
+
+People can only process auditory or visual information in limited chunks
+
+## The Mind Needs Space To Select, Organize & Integrate What’s Important
+People understand the presented material when they **pay attention** to the relevant material, **organize** it into a coherent mental structure, and **integrate** it with their prior knowledge.[^bv]
+
+This view of humans as active processors conflicts with a common view of humans as passive processors who seek to add as much information as possible to memory.
+
+[^bv]: h/t B. Vasilescu https://bvasiles.github.io/empirical-methods/spring-2021/slides/21-research-production.pdf 
+
+## Implications
+Presentations should use both visual and verbal forms of presentation;
+
+Filling the slides with information will easily overload people's cognitive systems;
+
+The presentations should help learners to select, organize, and integrate presented information.
+
+## Tips
+* Have a slide title that explains the main idea 
+    * “We did X, Y, Z” rather than “Contributions”
+
+Keep the narrative obvious (see Schimel and writing tips)
+
+* Minimize text in favour of narration 
+    * may be challenging for EFL speakers!
+
+## Tips
+
+**Rehearse**! I do at least 2-3 in front of a mirror, and for big presentations at least 1 in front of “friends”
+
+**Stay on time**. Remember you will have 2-3 other presenters as well. 
+
+Watch other people. What makes them effective? 
+
+Remember: you are trying to get people **excited** about your work. If you are a low-energy person like me, you should feel like you are exaggerating your personality (super uncomfortable!)
+
+Plenty of tutorials and books, such as [Neal Ford’s Presentation Patterns](https://presentationpatterns.com)
+
+## Mundane tips
+Number slides
+
+End with a bang
+
+Tenured faculty have poor eyesight
+
+Decide whether you want visual appeal, or slides with tons of content.
+
+## Exercise
+In groups of 4, find an online presentation and critique its style
+
+- could be someone in the group
+- could be mine
+- also see Slideshare, SpeakerDeck
+
+Share the URL, and one improvement your group found.
+
 
 ## Activity
 
-* Create a Twitter, OrcID, and Scholar profile (in class)
+* Create a Twitter/Mastodon profile, OrcID, and Scholar profile (in class)
 
 ## Readings (before class)
 
 ## Optional Readings
+- [Presentation Patterns](https://presentationpatterns.com)
+- [Marketing for Scientists](http://marketingforscientists.com/book/)
 
-- Marketing for Scientists
